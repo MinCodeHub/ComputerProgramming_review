@@ -1,2 +1,3 @@
-﻿  review1_9.cpp
+﻿  review1_10.cpp
+D:\4th_grade\1st_semester\problem_solve\Computer_Programming_review\Computer_Programming_review\review1_10.cpp(22): warning C4715: 'equalArray': 모든 제어 경로에서 값을 반환하지는 않습니다.
   Computer_Programming_review.vcxproj -> D:\4th_grade\1st_semester\problem_solve\Computer_Programming_review\x64\Debug\Computer_Programming_review.exe
